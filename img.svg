@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EF9795;}
+	.st1{fill:#FF0000;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#F29100;}
+</style>
+<g>
+	<g id="koza">
+		<rect y="0" class="st0" width="500" height="500"/>
+	</g>
+	<g id="obraz">
+		<rect x="188.992" y="391.509" width="122.015" height="19.403"/>
+		<rect x="121.964" y="225.292" width="85.677" height="19.403"/>
+		<rect x="292.358" y="225.292" width="85.677" height="19.403"/>
+		<g>
+			<circle cx="228.986" cy="333.583" r="13.02"/>
+			<circle cx="268.967" cy="333.583" r="13.02"/>
+		</g>
+		<rect x="220.992" y="447.255" width="58.016" height="19.403"/>
+		<g>
+			
+				<rect x="135.389" y="339.103" transform="matrix(0.5629 -0.8265 0.8265 0.5629 -211.107 298.4136)" width="82.403" height="19.403"/>
+			
+				<rect x="310.479" y="307.578" transform="matrix(0.8265 -0.5629 0.5629 0.8265 -140.7861 240.7407)" width="19.403" height="82.403"/>
+		</g>
+	</g>
+	<g id="obrvi-lasje">
+		<rect x="94.484" y="160.424" width="311.033" height="38.81"/>
+		<path d="M0,0v250c0,1.19,0.01,2.377,0.027,3.563l90.272-139.837L250,133.207l159.701-19.481l90.272,139.837
+			C499.99,252.377,500,251.19,500,250c0-89.883,0-250,0-250H0L0,0z"/>
+	</g>
+	<g id="lica-ustnice">
+		<g>
+			<rect x="63.504" y="269.695" class="st1" width="58.46" height="58.46"/>
+			<rect x="378.036" y="269.695" class="st1" width="58.46" height="58.46"/>
+		</g>
+		<rect x="188.992" y="410.912" class="st1" width="122.015" height="19.403"/>
+		<rect x="188.992" y="371.855" class="st1" width="122.015" height="19.403"/>
+	</g>
+	<g id="oci">
+		<circle cx="164.803" cy="255.48" r="18.751"/>
+		<circle cx="335.198" cy="255.48" r="18.75"/>
+	</g>
+	<g id="cigareta">
+		<rect x="277.777" y="391.509" class="st2" width="122.015" height="19.403"/>
+	</g>
+	<g id="pepel">
+		<rect x="388.222" y="391.509" width="11.57" height="19.403"/>
+	</g>
+	<g id="filter">
+		<rect x="277.777" y="391.509" class="st3" width="43.23" height="19.403"/>
+	</g>
+</g>
+</svg>
